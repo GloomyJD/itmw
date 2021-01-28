@@ -1,4 +1,4 @@
-extern void ASKInitialize();
+extern void ASKInitialize(void);
 extern int NSApplicationMain(int argc, const char *argv[]);
 
 int main(int argc, const char *argv[])
